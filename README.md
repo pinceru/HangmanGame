@@ -3,7 +3,7 @@
 ##
 
 ## O que é este projeto?
-#### Jogo da forca com o nome de dez animais para a adivinhar.
+#### Jogo da forca com o nome de dez animais para adivinhar.
 
 ## Por que o projeto foi feito?
 #### Esse pequeno jogo foi desenvolvido para um desafio pessoal de duas horas.
