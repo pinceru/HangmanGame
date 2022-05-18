@@ -1,4 +1,4 @@
-package forca;
+package gallows;
 
 public class CharException extends RuntimeException{
 	@Override
