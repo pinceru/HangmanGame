@@ -15,10 +15,10 @@
 #### Clássico jogo da forca. Viu uma vez, viu todas.
 
 ## Requisitos:
-##### - Java 1.8
+##### - ``` Java 1.8 ```
 
 ## Instruções:
-#### Baixar o arquivo "HangmanGame-WelingtonPincer.jar" desse repositório.
-#### Navegar até o diretório com o arquivo e executar o comando: "java -jar HangmanGame-WelingtonPincer.jar".
+#### Baixar o arquivo ```HangmanGame-WelingtonPincer.jar``` desse repositório.
+#### Navegar até o diretório com o arquivo e executar o comando: ```java -jar HangmanGame-WelingtonPincer.jar```.
 
 <img align="center" alt="Java" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
